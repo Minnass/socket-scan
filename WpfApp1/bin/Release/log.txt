@@ -1,0 +1,70 @@
+----INFO----:  HTTP server started  - 15/03/2024 10:36:15 
+----INFO----:  ec72fd43-8cee-4390-8d29-26f77f2d2200 connected - 15/03/2024 10:38:07 
+----INFO----:  Image scanned successfully - 15/03/2024 10:38:26 
+----INFO----:  Send Message:'Image is scanned' successfully - 15/03/2024 10:38:26 
+----INFO----:  Received message from client ec72fd43-8cee-4390-8d29-26f77f2d2200: SCAN - 15/03/2024 10:38:26 
+----INFO----:  HTTP server stopped  - 15/03/2024 10:38:35 
+----ERROR----:  An internal WebSocket error occurred. Please see the innerException, if present, for more details.  At function:   - 15/03/2024 10:38:36 
+----INFO----:  HTTP server started  - 15/03/2024 10:40:16 
+----INFO----:  bd4acca4-ea85-4e60-84cc-751cf3c61edc connected - 15/03/2024 10:40:19 
+----INFO----:  Image scanned successfully - 15/03/2024 10:40:39 
+----INFO----:  Send Message:'Image is scanned' successfully - 15/03/2024 10:40:39 
+----INFO----:  Received message from client bd4acca4-ea85-4e60-84cc-751cf3c61edc: SCAN - 15/03/2024 10:40:39 
+----INFO----:  8ed701d0-cf3a-4703-a2ba-1063486996ce connected - 15/03/2024 10:42:46 
+----INFO----:  HTTP server started  - 15/03/2024 10:58:04 
+----INFO----:  bf7fbb0c-09df-42bd-89f9-f762628163d2 connected - 15/03/2024 10:58:12 
+----INFO----:  Image scanned successfully - 15/03/2024 10:58:32 
+----INFO----:  Send Message:'Image is scanned' successfully - 15/03/2024 10:58:32 
+----INFO----:  Received message from client bf7fbb0c-09df-42bd-89f9-f762628163d2: SCAN - 15/03/2024 10:58:33 
+----INFO----:   bf7fbb0c-09df-42bd-89f9-f762628163d2: disconnected - 15/03/2024 10:59:06 
+----INFO----:  HTTP server stopped  - 15/03/2024 10:59:40 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 10:59:40 
+----INFO----:  HTTP server started  - 15/03/2024 11:03:45 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:03:55 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 11:03:55 
+----INFO----:  HTTP server started  - 15/03/2024 11:03:55 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:04:28 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 11:04:29 
+----INFO----:  HTTP server started  - 15/03/2024 11:04:29 
+----INFO----:  5ac3aae2-ccb8-4b6f-b8d5-c3163ff5174e connected - 15/03/2024 11:04:32 
+----INFO----:  Image scanned successfully - 15/03/2024 11:04:51 
+----INFO----:  Send Message:'Image is scanned' successfully - 15/03/2024 11:04:51 
+----INFO----:  Received message from client 5ac3aae2-ccb8-4b6f-b8d5-c3163ff5174e: SCAN - 15/03/2024 11:04:51 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:05:08 
+----ERROR----:  An internal WebSocket error occurred. Please see the innerException, if present, for more details.  At function:  ReceiveMessages  - 15/03/2024 11:05:08 
+----INFO----:  HTTP server started  - 15/03/2024 11:25:41 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:26:09 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 11:26:09 
+----INFO----:  HTTP server started  - 15/03/2024 11:33:15 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:33:36 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 11:33:36 
+----INFO----:  HTTP server started  - 15/03/2024 11:33:36 
+----INFO----:  HTTP server started  - 15/03/2024 11:53:24 
+----INFO----:  HTTP server stopped  - 15/03/2024 11:53:43 
+----INFO----:  HTTP server started  - 15/03/2024 11:53:44 
+----INFO----:  HTTP server started  - 15/03/2024 13:04:25 
+----INFO----:  HTTP server stopped  - 15/03/2024 13:04:35 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 13:04:35 
+----INFO----:  HTTP server started  - 15/03/2024 13:06:31 
+----INFO----:  HTTP server started  - 15/03/2024 13:08:00 
+----INFO----:  HTTP server stopped  - 15/03/2024 13:08:07 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 13:08:07 
+----INFO----:  HTTP server started  - 15/03/2024 13:08:31 
+----INFO----:  HTTP server started  - 15/03/2024 13:08:51 
+----INFO----:  HTTP server stopped  - 15/03/2024 13:08:58 
+----ERROR----:  Cannot access a disposed object.
+Object name: 'System.Net.HttpListener'.At function: Listen - 15/03/2024 13:08:58 
+----INFO----:  HTTP server started  - 15/03/2024 13:27:55 
+----INFO----:  d6a886e4-cb75-4852-8cac-86c177e49263 connected - 15/03/2024 13:28:06 
+----INFO----:  Image scanned successfully - 15/03/2024 13:28:32 
+----INFO----:  Send Message:'Image is scanned' successfully - 15/03/2024 13:28:32 
+----INFO----:  Received message from client d6a886e4-cb75-4852-8cac-86c177e49263: SCAN - 15/03/2024 13:28:32 
+----INFO----:  HTTP server stopped  - 15/03/2024 13:31:34 
+----ERROR----:  The process cannot access the file 'C:\Users\LT3_PhuocND\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Release\log.txt' because it is being used by another process.At function: Listen - 15/03/2024 13:31:34 
